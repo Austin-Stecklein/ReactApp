@@ -1,4 +1,4 @@
-import Styled-components
+import sytled from 'styled-components'
 
 const SideBar = ()=>{
   return 
